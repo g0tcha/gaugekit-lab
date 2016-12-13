@@ -1,0 +1,22 @@
+PODS:
+  - GaugeKit (0.3.2)
+
+DEPENDENCIES:
+  - GaugeKit (from `https://github.com/skywinder/GaugeKit.git`, commit `f96c1d7`)
+
+EXTERNAL SOURCES:
+  GaugeKit:
+    :commit: f96c1d7
+    :git: https://github.com/skywinder/GaugeKit.git
+
+CHECKOUT OPTIONS:
+  GaugeKit:
+    :commit: f96c1d7
+    :git: https://github.com/skywinder/GaugeKit.git
+
+SPEC CHECKSUMS:
+  GaugeKit: 4d5c3491521ed2d6e2f83cac5f51d0cd09db8989
+
+PODFILE CHECKSUM: bbc2a966bb7dc797ef9c20810d6b54a78bc13de1
+
+COCOAPODS: 1.1.1
